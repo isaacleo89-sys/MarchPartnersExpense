@@ -29,6 +29,11 @@ ENTITY_MAP = {
     "effraie": "Effraie (BS)", "bs": "Effraie (BS)",
     "crystal": "Crystal (Geylang)", "geylang": "Crystal (Geylang)",
     "crimson": "Crimson (Binjai)", "binjai": "Crimson (Binjai)",
+    "maven": "Maven (Siglap)", "siglap": "Maven (Siglap)",
+    "urban": "Urban Legacy (Fund)", "urbanlegacy": "Urban Legacy (Fund)",
+    "midas1": "Midas 1 (41 #06)", "midas 1": "Midas 1 (41 #06)",
+    "midas2": "Midas 2 (43 #06)", "midas 2": "Midas 2 (43 #06)",
+    "midas3": "Midas 3 (41 #05)", "midas 3": "Midas 3 (41 #05)",
 }
 ENTITY_FULL_NAMES = {
     "March (GP)": "March Real Estate Partners Pte Ltd (GP)",
@@ -37,11 +42,18 @@ ENTITY_FULL_NAMES = {
     "Effraie (BS)": "Effraie Prosperity Pte Ltd (Boon Sing)",
     "Crystal (Geylang)": "Crystal Pinnacle Pte Ltd (253A Geylang)",
     "Crimson (Binjai)": "Crimson Phoenix Pte Ltd (25 Binjai Park)",
+    "Maven (Siglap)": "Maven Pte Ltd (26 Siglap)",
+    "Urban Legacy (Fund)": "Urban Legacy Fund Pte Ltd",
+    "Midas 1 (41 #06)": "Midas 1 Pte Ltd (41 Siglap Road #06)",
+    "Midas 2 (43 #06)": "Midas 2 Pte Ltd (43 Siglap Road #06)",
+    "Midas 3 (41 #05)": "Midas 3 Pte Ltd (41 Siglap Road #05)",
 }
 ENTITY_FOLDER_NAMES = {
     "March (GP)": "March", "Heritage (Fund)": "Heritage",
     "Falcon (61ECR)": "Falcon", "Effraie (BS)": "Effraie",
     "Crystal (Geylang)": "Crystal", "Crimson (Binjai)": "Crimson",
+    "Maven (Siglap)": "Maven", "Urban Legacy (Fund)": "UrbanLegacy",
+    "Midas 1 (41 #06)": "Midas1", "Midas 2 (43 #06)": "Midas2", "Midas 3 (41 #05)": "Midas3",
 }
 
 GRAPH_BASE = "https://graph.microsoft.com/v1.0"
